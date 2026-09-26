@@ -13,11 +13,19 @@ You should then be prompted to choose between two policy types:
 
 <img width="1886" height="932" alt="image" src="https://github.com/user-attachments/assets/2865c22a-f348-4631-9c36-4bc422b49852" />
 
-AWS Default Policy: You can choose to enforce the standard, pre-configured security requirements provided out-of-the-box by AWS
+IAM Default: You can choose to enforce the standard, pre-configured security requirements provided out-of-the-box by AWS
 
 <img width="1886" height="932" alt="image" src="https://github.com/user-attachments/assets/07745d8e-33e9-4d1d-a79e-ba6f23747bc6" />
 
-Custom Password Policy: Alternatively, you can build a tailored policy to enforce stricter compliance rules
+Custom: Alternatively, you can build a tailored policy to enforce stricter compliance rules, including:
+
+Complexity Requirements: Mandating a minimum character length and requiring a mix of uppercase letters, lowercase letters, numerical digits, and non-alphanumeric (special) characters
+
+Expiration Limits: Setting passwords to automatically expire after a specific timeframe (e.g., 90 days), and deciding whether expiration requires an administrative reset
+
+User Permissions: Choosing whether to permit users to self-change their passwords
+
+Prevention of Reuse: Restricting users from recycling old passwords
 
 <img width="893" height="665" alt="image" src="https://github.com/user-attachments/assets/b3043c0b-0547-4157-b8c8-0178be1f4cb5" />
 
