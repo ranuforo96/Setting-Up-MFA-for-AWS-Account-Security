@@ -11,9 +11,9 @@ Modify the Policy: Locate the Password policy section and select the option to e
 
 You should then be prompted to choose between two policy types:
 
-<img width="1886" height="932" alt="image" src="https://github.com/user-attachments/assets/2865c22a-f348-4631-9c36-4bc422b49852" />
-
 IAM Default: You can choose to enforce the standard, pre-configured security requirements provided out-of-the-box by AWS
+
+<img width="1886" height="932" alt="image" src="https://github.com/user-attachments/assets/2865c22a-f348-4631-9c36-4bc422b49852" />
 
 <img width="1886" height="932" alt="image" src="https://github.com/user-attachments/assets/07745d8e-33e9-4d1d-a79e-ba6f23747bc6" />
 
