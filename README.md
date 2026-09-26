@@ -37,3 +37,7 @@ Once the page has loaded click on Assign MFA
 
 <img width="953" height="624" alt="image" src="https://github.com/user-attachments/assets/e0940da3-cb8d-49b5-a7ee-cced75d8b888" />
 
+Next, enter a unique name to easily identify your MFA device
+
+<img width="959" height="612" alt="image" src="https://github.com/user-attachments/assets/1f961755-de93-4696-8abd-b3587f0928b6" />
+
