@@ -9,9 +9,9 @@ Navigate to Account Settings: On the left-hand navigation pane of the IAM dashbo
 
 Modify the Policy: Locate the Password policy section and select the option to edit your configuration
 
-<img width="1886" height="932" alt="image" src="https://github.com/user-attachments/assets/2865c22a-f348-4631-9c36-4bc422b49852" />
-
 You should then be prompted to choose between two policy types:
+
+<img width="1886" height="932" alt="image" src="https://github.com/user-attachments/assets/2865c22a-f348-4631-9c36-4bc422b49852" />
 
 AWS Default Policy: You can choose to enforce the standard, pre-configured security requirements provided out-of-the-box by AWS
 
