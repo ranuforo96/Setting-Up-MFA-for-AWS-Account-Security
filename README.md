@@ -15,8 +15,6 @@ IAM Default: You can choose to enforce the standard, pre-configured security req
 
 <img width="1886" height="932" alt="image" src="https://github.com/user-attachments/assets/2865c22a-f348-4631-9c36-4bc422b49852" />
 
-<img width="1886" height="932" alt="image" src="https://github.com/user-attachments/assets/07745d8e-33e9-4d1d-a79e-ba6f23747bc6" />
-
 Custom: Alternatively, you can build a tailored policy to enforce stricter compliance rules, including:
 
 Complexity Requirements: Mandating a minimum character length and requiring a mix of uppercase letters, lowercase letters, numerical digits, and non-alphanumeric (special) characters
