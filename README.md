@@ -27,4 +27,5 @@ Prevention of Reuse: Restricting users from recycling old passwords
 
 <img width="893" height="665" alt="image" src="https://github.com/user-attachments/assets/b3043c0b-0547-4157-b8c8-0178be1f4cb5" />
 
+Once password complexity requirements are applied, proceed to the next section to configure Multi-Factor Authentication (MFA)
 
