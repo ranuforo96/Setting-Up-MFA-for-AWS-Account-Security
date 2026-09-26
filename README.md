@@ -29,3 +29,11 @@ Prevention of Reuse: Restricting users from recycling old passwords
 
 Once password complexity requirements are applied, proceed to the next section to configure Multi-Factor Authentication (MFA)
 
+On the same screen, click on your account name in the top right corner and select Security credentials
+
+<img width="958" height="1028" alt="image" src="https://github.com/user-attachments/assets/fe84e1ca-c0a5-4625-8c38-937760a12848" />
+
+Once the page has loaded click on Assign MFA
+
+<img width="953" height="624" alt="image" src="https://github.com/user-attachments/assets/e0940da3-cb8d-49b5-a7ee-cced75d8b888" />
+
