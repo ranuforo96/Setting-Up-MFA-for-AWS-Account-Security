@@ -65,3 +65,4 @@ A confirmation banner will appear at the top of the screen indicating that the v
 
 <img width="1916" height="487" alt="image" src="https://github.com/user-attachments/assets/7edc34b0-8ee5-4d10-9168-bc743d544832" />
 
+To confirm MFA setup was successful 
